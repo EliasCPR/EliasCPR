@@ -1,7 +1,7 @@
 # Elias-Oliveira
-# :octocat: Fernando Leonid
+# :octocat: Elias Oliveira
 
-Professor da área de tecnologia da informação, atuando em duas área, redes de computador e desenvolvimento.
+Profissional da area de TI,Programador Junior.
 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/fernandoleonid)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/fernandoleonid)
@@ -24,12 +24,7 @@ Professor da área de tecnologia da informação, atuando em duas área, redes d
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoleonid&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 💡 Dica para treinar lógica de programação
-
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-
-
+## 💡 Para acessar meu perfil
 
 https://www.facebook.com/profile.php?id=100038417583504
 
