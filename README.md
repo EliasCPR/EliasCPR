@@ -9,13 +9,16 @@ Profissional da area de TI,Programador Junior.
 
 
 ##
-![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" heigth="30" style="max-width:100%;" title="HTML5"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" heigth="30" style="max-width:100%;" title="CSS3"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" heigth="30" style="max-width:100%;" title="JavaScript"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" heigth="30" style="max-width:100%;" title="Git"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" heigth="30" style="max-width:100%;" title="GitHub"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="30" heigth="30" style="max-width:100%;" title="Android"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" heigth="35" style="max-width:100%;" title="php"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google"  width="30" heigth="30" style="max-width:100%;" title="Google"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="35" heigth="35" style="max-width:100%;" title="MySql"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="35" heigth="35" style="max-width:100%;" title="Java"></img>
 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EliasCPR&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
