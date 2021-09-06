@@ -1,34 +1,35 @@
 
 # :octocat: Elias Oliveira
 
-Profissional da area de TI,Programador Junior.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador EliasCPR">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/EliasCPR)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/elias-oliveira-9aa4b51b1/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:fernandoleonid@gmail.com)
+<!--<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right">-->
 
+<p align="left"> 
+  🌎 Olá, meu nome é Elias Oliveira. Sou <strong>Desenvolvedor de software</strong> e <strong>Designer</strong>.
+</p>
 
-##
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" heigth="30" style="max-width:100%;" title="HTML5"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" heigth="30" style="max-width:100%;" title="CSS3"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" heigth="30" style="max-width:100%;" title="JavaScript"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" heigth="30" style="max-width:100%;" title="Git"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" heigth="30" style="max-width:100%;" title="GitHub"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="30" heigth="30" style="max-width:100%;" title="Android"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" heigth="35" style="max-width:100%;" title="php"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google"  width="30" heigth="30" style="max-width:100%;" title="Google"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="35" heigth="35" style="max-width:100%;" title="MySql"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="35" heigth="35" style="max-width:100%;" title="Java"></img>
+<p align="left">
+  Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Node.js, expressJs ,Styled Components, PHP, java, Kotlin.</strong>
+</p>
 
-## GITHUB
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EliasCPR&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasCPR&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Git e GitHub.</strong>
+</p>
 
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
 
-## 💡 Para acessar meu perfil
+<p align="left">
+  <a href="https://www.instagram.com/eliascpr123/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/elias-oliveira-9aa4b51b1/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+  
+</p>
 
-https://www.facebook.com/profile.php?id=100038417583504
-
-https://www.linkedin.com/in/elias-oliveira-9aa4b51b1/
-
-https://www.instagram.com/eliascpr123/****
