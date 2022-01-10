@@ -6,15 +6,19 @@
 <!--<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right">-->
 
 <p align="left"> 
-  🌎 Olá, meu nome é Elias Oliveira. Sou <strong>Desenvolvedor de software</strong> e <strong>Designer</strong>.
+  🌎 Olá, meu nome é Elias Oliveira. Sou <strong>Desenvolvedor back-end</strong>.
 </p>
 
 <p align="left">
-  Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Node.js, expressJs ,Styled Components, PHP, java, Kotlin.</strong>
+  Habilidades(Linguagens de programação): <strong>JavaScript, TypeScript, Node.js, expressJs , koaJs, nestJs, PHP, java, Kotlin.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git e GitHub.</strong>
+  Habilidades(Banco de dados): <strong>MySQL, MongoDB, PostgreeSQL (e alguns ORM's/ODM : sequelize, prisma, typeorm, mongoose)</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Postman, Git e GitHub.</strong>
 </p>
 
 <p align="left">
