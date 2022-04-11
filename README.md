@@ -10,18 +10,6 @@
 </p>
 
 <p align="left">
-  Habilidades(Linguagens de programação): <strong>JavaScript, TypeScript, Node.js, expressJs , koaJs, nestJs, PHP, java, Kotlin.</strong>
-</p>
-
-<p align="left">
-  Habilidades(Banco de dados): <strong>MySQL, MongoDB, PostgreeSQL (e alguns ORM's/ODM : sequelize, prisma, typeorm, mongoose)</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Postman, Git e GitHub.</strong>
-</p>
-
-<p align="left">
   💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 </p>
 
