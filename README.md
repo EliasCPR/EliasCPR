@@ -6,7 +6,7 @@
 <!--<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right">-->
 
 <p align="left"> 
-  🌎 Olá, meu nome é Elias Oliveira. Sou <strong>Desenvolvedor back-end</strong>.
+  🌎 Olá, meu nome é Elias Oliveira. Sou <strong>Desenvolvedor back-end</strong> júnior, estou me desenvolvendo na área cada vez mais, para cada dia ajudar a resolver     problemas.
 </p>
 
 <p align="left">
