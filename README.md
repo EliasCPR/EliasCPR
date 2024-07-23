@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working at AdviseU<br>I'm currently learning Rust, Kotlin and Elixir
+- 🔭 Atualmente trabalhando na [AdviseU](https://www.adviseu.com)
+- 🌱 Learning: Rust, Kotlin, Go and Elixir
+- 💬 Ask me about: Backend Development, Node.js, NestJS
+- ⚡ Fun fact: Passionate about solving complex problems and exploring new technologies
+
 
 
 ## 
