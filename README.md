@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🔭 Atualmente workin on [AdviseU](https://www.adviseu.com)
-- 🌱 Learning: Rust, Kotlin, Go and Elixir
-- 💬 Ask me about: Backend Development, Node.js, NestJS
+- 🔭 Atualmente workin on [AdviseU](https://www.adviseu.com.br)
+- 🌱 Learning: Kotlinand Go 
+- 💬 Ask me about: Backend Development, Node.js, NestJS, Java, Kotlin, Spring Boot
 - ⚡ Fun fact: Passionate about solving complex problems and exploring new technologies
 
 
